@@ -103,9 +103,6 @@ def main():
         except ValueError:
             print("ERROR!!!!!")
 
-        # Clearing the command line window.
-        clear()
-
         # Asking the user whether he/she wants to do a calculation or not.
         print("Enter 'Y' for yes.")
         print("Enter anything else for no.")
