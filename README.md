@@ -36,7 +36,7 @@ to enter an equation for the application to print out its result of. Entering an
 
 ### Calculation Example
 
-Below shows an example of a calculation carried out in the application. Pressing "Enter" will show its output and then clear the command line window to return to the
-main menu of the application.
+Below shows an example of a calculation carried out in the application. Pressing "Enter" will show its output and then a question from the application to the user
+whether he/she wants to do another calculation or not.
 
 ![Calculation Example](https://github.com/DtjiSoftwareDeveloper/PyCalculator/blob/main/images/Calculation%20Example.png)
